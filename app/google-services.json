@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "460309631022",
+    "firebase_url": "https://baitaplon-e6209-default-rtdb.firebaseio.com",
+    "project_id": "baitaplon-e6209",
+    "storage_bucket": "baitaplon-e6209.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460309631022:android:e60fbb6cc40fbbc8b58fbf",
+        "android_client_info": {
+          "package_name": "com.example.mockproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460309631022-1a983qops932frsdqvaf6qb6tlrrsrt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mockproject",
+            "certificate_hash": "9b56355fb939bad1888fbe12a7c6cf49bed8b5e0"
+          }
+        },
+        {
+          "client_id": "460309631022-17ef2gmtou8hsh6e3aka3ql8cu4g7u4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHd6t-dJL4dxmiq1hL8YXyFnc9IKEIbvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460309631022-17ef2gmtou8hsh6e3aka3ql8cu4g7u4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
