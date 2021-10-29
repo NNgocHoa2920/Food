@@ -66,6 +66,9 @@ class LoginFragment : Fragment(), ILoginView {
                             checkData = true
                             database.child(username).child("login").setValue(true)
                         }
+                        else{
+                            ghichu.text = Contacts.FAIL_LOGIN
+                        }
                     }
                     override fun onCancelled(error: DatabaseError) {
                         TODO("Not yet implemented")
